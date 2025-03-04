@@ -1,5 +1,6 @@
 # Principles of Data Analytics
-This repository contains my weekly submissions for the principles of data analytics module.
+
+This repository contains my submissions for the principles of data analytics module.
 
 by Niamh Hogan
 
