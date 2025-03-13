@@ -1,1 +1,10 @@
 
+Python packages & libraries:
+numpy
+scipy
+matplotlib
+seaborn
+pandas
+statsmodels
+scikit-learn
+
