@@ -1,5 +1,7 @@
 # Principles of Data Analytics
 
+![alt text](iris.png)
+
 This repository contains my submissions for the principles of data analytics module.
 
 by Niamh Hogan
