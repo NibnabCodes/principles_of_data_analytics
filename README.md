@@ -47,12 +47,19 @@ This repository is comprised of the following files and folders:
 
 ## Dependencies 🌺  
 * python==3.12.1  
+Python --
 * numpy==2.2.0  
+
 * scipy==1.14.1  
-* matplotlib==3.9.3  
+
+* matplotlib.pyplot==3.9.3  
+
 * seaborn==0.13.2  
+
 * pandas==2.2.3  
-* scikit-learn==1.6.0
+
+* scikit-learn==1.6.0  
+
 
 ## Environment Setup 🌺
 
