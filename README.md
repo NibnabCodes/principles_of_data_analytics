@@ -32,7 +32,7 @@ Each task introduced a core element of the data analytics pipeline:
 
   10. **Creating a Pair Plot:** Finally, a comprehensive pair plot using seaborn enabled simultaneous visualization of all feature relationships and class distinctions.
 
-Throughout this learning experience, I utilized essential Python libraries such as NumPy, SciPy, pandas, matplotlib, seaborn, and scikit-learn. These tools supported data manipulation, statistical computation, and visualization, forming a practical foundation for future work in data science and analytics.
+I utilized essential Python libraries such as NumPy, SciPy, pandas, matplotlib, seaborn, and scikit-learn. These tools supported data manipulation, statistical computation, and visualization, forming a practical foundation for future work in data science and analytics.
 
 author: Niamh Hogan
 
