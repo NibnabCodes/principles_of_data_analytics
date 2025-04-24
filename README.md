@@ -22,7 +22,7 @@ Each task introduced a core element of the data analytics pipeline:
 
   5. **Investigating Relationships – Scatterplots:** Scatterplots allowed me to begin examining pairwise relationships between features.
 
-  6. **Analyzing Relationships – Regression Line:** I incorporated a regression line into a scatterplot to understand linear trends and strengthen visual interpretation, using numpy.polyfit. 
+  6. **Analyzing Relationships – Regression Line:** I incorporated a regression line into the scatterplot from task 5 to understand linear trends and strengthen visual interpretation, using numpy.polyfit. 
 
   7. **Class Distributions – Boxplots:** Boxplots of petal lengths by species were created to investigate intra-class variability and inter-class distinctions.
 
@@ -32,7 +32,7 @@ Each task introduced a core element of the data analytics pipeline:
 
   10. **Creating a Pair Plot:** Finally, a comprehensive pair plot using seaborn enabled simultaneous visualization of all feature relationships and class distinctions.
 
-I utilized essential Python libraries such as NumPy, SciPy, pandas, matplotlib, seaborn, and scikit-learn. These tools supported data manipulation, statistical computation, and visualization, forming a practical foundation for future work in data science and analytics.
+I utilized essential Python libraries such as NumPy, SciPy, pandas, matplotlib, seaborn, and scikit-learn. These tools supported data manipulation, statistical computation and visualization, allowing me to form a practical foundation for future work in data science and analytics.
 
 author: Niamh Hogan
 
@@ -40,24 +40,20 @@ author: Niamh Hogan
 
 This repository is comprised of the following files and folders:  
 
+  - An **iris.png** file
   - A **README** file that contains  
   - A **requirements.txt** file containing all the Python packages that the code depends on & their versions.  
   - A Jupiter Notebook, titled **tasks.pynb** that contains --
 
 
 ## Dependencies 🌺  
+**See tasks.ipynb for further information on the following libraries**
 * python==3.12.1  
-Python --
 * numpy==2.2.0  
-
 * scipy==1.14.1  
-
 * matplotlib.pyplot==3.9.3  
-
 * seaborn==0.13.2  
-
 * pandas==2.2.3  
-
 * scikit-learn==1.6.0  
 
 
