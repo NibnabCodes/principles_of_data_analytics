@@ -4,11 +4,11 @@
 
 ![alt text](iris.png)
 
-## Overview 🌺
+## Overview 🌱
 
 This repository contains ten weekly task submissions completed as part of the assessment requirements for the *Principles of Data Analytics* module at Atlantic Technological University – Galway.
 
-The purpose of this repository was to document my introductory journey into data analytics, undertaken as a novice learner. Over a series of ten weekly tasks, I engaged with foundational concepts in data analysis using Python and Jupyter Notebooks, with the well-known Iris dataset serving as the central focus of exploration.
+The purpose of this repository was to document my introductory journey into data analytics, undertaken as a novice learner. Over a series of ten weekly tasks, I engaged with foundational concepts in data analysis using Python and Jupyter Notebooks, with the well-known Iris dataset serving as the central focus of exploration. This allowed me to gain practical experience in applying data analytic processes on real-world data. 
 
 Each task introduced a core element of the data analytics pipeline:
 
@@ -40,14 +40,15 @@ author: Niamh Hogan
 
 This repository is comprised of the following files and folders:  
 
-  - An **iris.png** file
-  - A **README** file that contains  
+  - A **.gitignore** file which contains all the files/folders to be ignored by Git in this repository.
+  - An **iris.png** file containing an image of the different types of iris species & the location of sepal & petal measurements taken from: [Giri, 2022](https://machinelearning4ya.blogspot.com/2022/04/iris-flowers-classification-using.html).
+  - A **README** file that contains an overview of the repository & explanation of the tasks within the Jupiter Notebook, a list of dependecies & their versions, technologies utilized, How to: Setup environment, Download repository & Run the code and a short explanation on where to find the references.
   - A **requirements.txt** file containing all the Python packages that the code depends on & their versions.  
-  - A Jupiter Notebook, titled **tasks.pynb** that contains --
-
+  - A Jupiter Notebook, titled **tasks.pynb** that contains all ten tasks previously discussed in the overview.
 
 ## Dependencies 🌺  
-**See tasks.ipynb for further information on the following libraries**
+**See tasks.ipynb for further information on the following libraries** 
+
 * python==3.12.1  
 * numpy==2.2.0  
 * scipy==1.14.1  
@@ -56,22 +57,73 @@ This repository is comprised of the following files and folders:
 * pandas==2.2.3  
 * scikit-learn==1.6.0  
 
-
-## Environment Setup 🌺
-
-
-## How to Download Repository 🌸
-
-
-## How to Run the Code 🌸
-
-
-
-
-## Technologies
+## Technologies 🌺 
 
 - Python
+- Anaconda
 - Git
 - GitHub
 - Codespaces
-- Jupyter
+- Jupyter Notebooks
+- Visual Studio Code
+
+## How to Setup Environment 🌺  
+
+For downloading and running the repository locally download the following:  
+
+**Git**  
+
+Download the latest version of Git at:  
+https://git-scm.com/downloads
+
+**GitHub**  
+
+Create a free GitHub account at:  
+https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+
+**Anaconda**  
+
+I recommend using Anaconda as it comes bundled with Python, Jupyter Notebooks & the Python libraries used in this repository.  
+Install Anaconda using the following steps:  
+
+1. Download Anaconda for free from:  
+https://www.anaconda.com/download
+2. Open the downloaded file & press next, next
+3. When the advanced options appear check the following boxes:  
+  - Add to PATH environment variable  
+  - Make this version your default Python  
+
+**Visual Studio Code**
+
+Download Visual Studio Code at:  
+https://code.visualstudio.com/Download  
+  - Install Python extension in VS Code 
+
+
+## How to Download Repository 🌺  
+
+You can clone this repository to VS Code using the following steps:
+
+1. Copy the repositories URL from GitHub:  
+https://github.com/NibnabCodes/principles_of_data_analytics
+2. Create a folder in VS Code of where you want to store the cloned repository
+3. Open new terminal in VS Code & input following:  
+  - git clone PASTED.URL - To clone repository  
+  - git config pull.rebase false - Set pull mode to merge  
+  - git pull - To pull the content of the repository  
+
+The repository should now be accessible in VS Code & ready to execute.
+
+
+## How to Run the Code 🌺  
+
+  1. Open repository folder in VS Code  
+  2. Open .ipynb file  
+  3. In the top right-hand corner click "select kernel"  
+  4. select Python environment  
+  5. To execute the cells to run the code within the notebook, select "Run All" or run the cells one by one by clicking "▶️ Execute cell" on the top left-hand corner of the cell
+
+
+## References 🌺  
+
+Please see tasks.ipynb for references used.
