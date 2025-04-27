@@ -42,9 +42,9 @@ This repository is comprised of the following files and folders:
 
   - A **.gitignore** file which contains all the files/folders to be ignored by Git in this repository.
   - An **iris.png** file containing an image of the different types of iris species & the location of sepal & petal measurements taken from: [Giri, 2022](https://machinelearning4ya.blogspot.com/2022/04/iris-flowers-classification-using.html).
-  - A **README** file that contains an overview of the repository & explanation of the tasks within the Jupiter Notebook, a list of dependecies & their versions, technologies utilized, How to: Setup environment, Download repository & Run the code and a short explanation on where to find the references.
+  - A **README** file that contains an overview of the repository & explanation of the tasks within the Jupyter Notebook, a list of dependecies & their versions, technologies utilized, How to: Setup environment, Download repository & Run the code and a short explanation on where to find the references.
   - A **requirements.txt** file containing all the Python packages that the code depends on & their versions.  
-  - A Jupiter Notebook, titled **tasks.pynb** that contains all ten tasks previously discussed in the overview.
+  - A Jupyter Notebook, titled **tasks.pynb** that contains all ten tasks previously discussed in the overview.
 
 ## Dependencies 🌺  
 **See tasks.ipynb for further information on the following libraries** 
@@ -97,7 +97,7 @@ https://www.anaconda.com/download
 
 Download Visual Studio Code at:  
 https://code.visualstudio.com/Download  
-  - Install Python extension in VS Code 
+  - Install Python & Jupyter extensions in VS Code 
 
 
 ## How to Download Repository 🌺  
